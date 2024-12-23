@@ -1,1 +1,3 @@
 # mahdad
+born on January 31, 2006. I’m 18 years old and have been involved in front-end development for about a year and a half now. I’ve gained hands-on experience with technologies such as HTML, CSS, Tailwind CSS, JavaScript, React JS, MUI, Supabase, React Query, React Router, and more...
+
