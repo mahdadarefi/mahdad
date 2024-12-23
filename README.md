@@ -8,7 +8,7 @@ Mahdad was born on September 6, 1993. I have a bachelor's degree in computer sof
 - 🛠️ DataBase: Postgres,SqlLite,MySql
 
 ## Connect with me
--- [Linkdin](https://www.linkedin.com/in/mahdad-arefi/)
+-- [Linkdin] (https://www.linkedin.com/in/mahdad-arefi/)
 --[Email] (mahdad.arefi@gmail.com)
 
 
